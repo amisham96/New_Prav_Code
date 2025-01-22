@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v-pkothaveer\\Source\\Repos\\Pravu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFF4290-BBBD-4A14-B1E3-5E25B74FFB02}|Pravu\\Pravu.csproj|c:\\users\\v-pkothaveer\\source\\repos\\pravu\\pravu\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFF4290-BBBD-4A14-B1E3-5E25B74FFB02}|Pravu\\Pravu.csproj|solutionrelative:pravu\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\v-pkothaveer\\Source\\Repos\\Pravu\\Pravu\\Function1.cs",
+              "RelativeDocumentMoniker": "Pravu\\Function1.cs",
+              "ToolTip": "C:\\Users\\v-pkothaveer\\Source\\Repos\\Pravu\\Pravu\\Function1.cs",
+              "RelativeToolTip": "Pravu\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:59:43.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
